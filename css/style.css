@@ -1,0 +1,19 @@
+header {
+   background-color: #FFCF40;
+ }
+ h1{
+   color: black;
+   font-size: 40px;
+ }
+ body {
+   font-size: 20px;
+ }
+ body div {
+   font-size: 10px;
+ }
+ main{
+   background-color:#FFBF00	;
+ }
+ footer{
+   background-color: #BF9B30;
+ }
