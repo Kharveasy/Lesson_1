@@ -1,9 +1,9 @@
 header {
-   background-color: #FFCF40;
+   background-color: #996DA6;
  }
  h1{
-   color: black;
-   font-size: 40px;
+   color: rgb(50, 11, 84);
+   font-size: 60px;
  }
  body {
    font-size: 20px;
@@ -12,8 +12,9 @@ header {
    font-size: 10px;
  }
  main{
-   background-color:#FFBF00	;
+   background-color:#DBEF9B	;
  }
  footer{
-   background-color: #BF9B30;
+   background-color: #FBF7A2;
+   font-size: 20;
  }
